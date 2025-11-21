@@ -1,21 +1,21 @@
-Título do Projeto
+# Título do Projeto
  Currículo Wesley.
 
-Descrição
- Apresentação.
+# Descrição
+Um portfólio pessoal
 
 
 
-Tecnologias Utilizadas
- Liste as principais linguagens e ferramentas 
+# Tecnologias Utilizadas
+ 
  linguagens - CSS, HTML
  ferramentas - VsCode
 
-Como Executar o Projeto
+# Como Executar o Projeto
 Abrir index.html no navegador.
 
 
-Estrutura de Pastas
+# Estrutura de Pastas
  	📂 curriculowesley
 ├── index.html
 ├── style.css
